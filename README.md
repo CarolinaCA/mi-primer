@@ -8,6 +8,4 @@ called, totally asymmetric simple exclusion processes (TASEP). The number of ite
 
 The process provides an gif at the end where simulation process is shown.
 
-If want to know a little bit about the background of this specific molecular motor, the full explanation is on https://carolinalderete.blogspot.com/#
-
 If you have questions, comments or feedback would be a pleasure. carolinalderete@hotmail.com
